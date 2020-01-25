@@ -4,7 +4,6 @@
 #
 %define		pdir	ExtUtils
 %define		pnam	Config
-%include	/usr/lib/rpm/macros.perl
 Summary:	ExtUtils::Config - A wrapper for Perl's configuration
 Summary(pl.UTF-8):	Extutils::Cofnig - obudowanie konfiguracji Perla
 Name:		perl-ExtUtils-Config
